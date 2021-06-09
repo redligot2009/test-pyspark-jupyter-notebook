@@ -22,3 +22,4 @@ Resources consulted:
 - http://www.learnbymarketing.com/1100/pyspark-joins-by-example/
 - https://www.kdnuggets.com/2019/08/learn-pyspark-installation-tutorial.html
 - https://bigdata-madesimple.com/guide-to-install-spark-and-use-pyspark-from-jupyter-in-windows/
+- https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/
