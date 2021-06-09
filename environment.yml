@@ -1,0 +1,11 @@
+dependencies:
+  - python=3.8
+  - jupyter
+  - ipython
+  - numpy
+  - numpy-base
+  - pandas
+  - py4j
+  - pyspark
+  - pytz
+  - findspark
